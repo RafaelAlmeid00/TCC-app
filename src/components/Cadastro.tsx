@@ -323,7 +323,8 @@ export default function Cadastro() {
             </Animatable.View>
           </ScrollView>
         </View>
-      }
-    </>
-  );
-}
+
+            }
+          </>
+  )
+          }
